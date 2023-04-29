@@ -1,3 +1,22 @@
 label {
-    color: darkred;
+    color: rgb(56, 53, 53);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#table-yuk {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    background-color: #8d99ae;
+    padding: 15px;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.35);
+    box-shadow: 0 8px 32px 0 rgba(35, 77, 162, 0.493);
+    backdrop-filter: blur( 20px );
+    -webkit-backdrop-filter: blur( 20px );
+    border-radius: 8px;
+    border: 1px solid rgba(15, 21, 71, 0.18);
 }
